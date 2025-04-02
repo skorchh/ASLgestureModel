@@ -69,7 +69,6 @@ project_root/
 
 ## Future Improvements
 - Add support for ASL words and phrases.
-- Improve model accuracy with data augmentation.
 - Implement real-time translation of ASL sentences.
 
 ## License
